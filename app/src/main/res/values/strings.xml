@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">CommonWealth</string>
     <string name="boardsonwall">boardsonwall</string>
+    <string name="upcoming_camps">upcoming camps</string>
 </resources>
+
+
